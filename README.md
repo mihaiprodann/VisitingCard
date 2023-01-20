@@ -19,5 +19,12 @@ An online visiting card platform built using PHP that allows users to create and
 * Edit your profile information and upload a profile picture
 * Share your unique profile link with others to view your visiting card
 
+# Technologies Used 🛠
+* HTML 🌐
+* CSS 🎨
+* JavaScript 🛍
+* PHP 💻
+* MariaDB 🗄
+
 
 With this online visiting card platform, you can showcase your personal brand and make it easy for others to connect with you. Give it a try and see the difference it makes! 🚀
