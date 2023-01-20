@@ -8,7 +8,7 @@ An online visiting card platform built using PHP that allows users to create and
 * Rate and leave comments on other users' visiting cards 🗣
 
 # Installation 🛠
-* Clone the repository to your local machine using the command git clone <kbd>https://github.com/yourusername/online-visiting-card.git</kbd>
+* Clone the repository to your local machine using the command git clone <kbd>https://github.com/mihaiprodann/VisitingCard.git</kbd>
 * Import the SQL file to your database
 * Edit the <kbd>config.php</kbd> file with your database credentials
 * Host the code on a server that supports PHP
