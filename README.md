@@ -10,7 +10,7 @@ An online visiting card platform built using PHP that allows users to create and
 # Installation 🛠
 * Clone the repository to your local machine using the command <kbd> git clone https://github.com/mihaiprodann/VisitingCard.git</kbd>
 * Import the SQL file to your database
-* Edit the <kbd>config.php</kbd> file with your database credentials
+* Edit the database credentials with yours.
 * Host the code on a server that supports PHP
 
 # Usage 📲
