@@ -1,19 +1,7 @@
 <?php
-session_start();
-$server = "localhost";
-$user = "mihaiprodan";
-$password = "1234";
-$db = "DB_OSA";
-
-$connection = mysqli_connect($server, $user, $password, $db);
-
-if(!$connection)
-    die("eroare de conexiune");
-if(!isset($_SESSION["username"]))
-{
-    header("Location: index.php");
-}
+    include './connection/connection.php';
 ?>
+
 
 
 <html>

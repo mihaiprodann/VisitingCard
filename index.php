@@ -1,15 +1,5 @@
 <?php
-session_start();
-$server = "localhost";
-$user = "mihaiprodan";
-$password = "1234";
-$db = "DB_OSA";
-
-$connection = mysqli_connect($server, $user, $password, $db);
-
-if(!$connection)
-    echo "nu s a conectat... " . mysqli_connect_error();
-
+    include './connection/connection.php';
 ?>
 
 <html>
